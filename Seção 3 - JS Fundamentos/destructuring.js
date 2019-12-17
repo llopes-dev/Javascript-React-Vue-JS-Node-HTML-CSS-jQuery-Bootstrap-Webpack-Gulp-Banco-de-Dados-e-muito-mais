@@ -1,3 +1,5 @@
+// Desistruturação a partir do Objeto
+
 // novo recurso ES2015
 
 const pessoa = {
