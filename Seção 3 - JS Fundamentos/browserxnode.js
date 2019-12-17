@@ -1,0 +1,1 @@
+// Contexto de Execução - Browser vs Node
