@@ -1,6 +1,6 @@
 // Comentário de 1 linha
 
 /**
- * comentários de várias
+ * comentários de multimas
  * linhas
  */
